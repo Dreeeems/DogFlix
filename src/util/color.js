@@ -1,0 +1,1 @@
+export const colors = [{code:"#5b2726"},{code:"#91755d"},{code:"#be876d"},{code:"#392b26"},{code:"#675b5c"},{code:"#935342"},{code:"#5348d2"}]
