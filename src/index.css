@@ -2,12 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-    background-color:  #2b2a33;
-}
-
-.infoBox{
-    display:flex;
-    transition:  2s;
-
+body {
+  background-color: #2b2a33;
 }
