@@ -5,3 +5,9 @@
 body{
     background-color:  #2b2a33;
 }
+
+.infoBox{
+    display:flex;
+    transition:  2s;
+
+}

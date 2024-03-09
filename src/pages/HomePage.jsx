@@ -32,7 +32,7 @@ const HomePage = () => {
   }, []);
 
   return (
-    <div className='container'>
+    <div className='w-full'>
       <LoadingScreen onAnimationComplete={() => setIsAnimationComplete(true)} />
 
       {isAnimationComplete && (
